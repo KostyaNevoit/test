@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+<gameField>
+<x>6</x>
+<y>4</y>
+</gameField>
+<victoryCondition>4</victoryCondition>
+<backgroundColor>#FFFF34</backgroundColor>
+</config>
